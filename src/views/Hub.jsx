@@ -18,7 +18,7 @@ const Hub = () => {
     <Paragraph>
       Join a community built for technology leaders by hands-on practitioners. Get direct access to our expert insights, monthly reports, <br /> podcast, and the strategic tools we use to guide the world’s leading companies.
     </Paragraph>
-    <Button to="/podcast">
+    <Button to="/podcast" variant="primary">
     Join the Community
     </Button>
     </Section>

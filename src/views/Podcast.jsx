@@ -17,8 +17,8 @@ const Hub = () => {
       </Heading>
     <Paragraph>
       The conversation doesn't end when the episode does. Join the Waves of Innovation community to get our <br /> monthly report, access our strategic frameworks, and connect with other technology leaders.    </Paragraph>
-    <Button to="/report">
-    Explore Our Book
+    <Button to="/report" variant="secondary">
+    Join the Community
     </Button>
     </Section>
     </div>

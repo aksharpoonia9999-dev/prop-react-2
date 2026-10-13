@@ -18,8 +18,8 @@ const Hub = () => {
     <Paragraph>
       Get the distilled insights, strategic frameworks, and real-world case studies our experts use to <br /> guide the world's leading companies. Straight to your inbox.
     </Paragraph>
-    <Button to="/">
-    Explore Our Book
+    <Button to="/" variant = "secondary">
+    Join the Community
     </Button>
     </Section>
     </div>
